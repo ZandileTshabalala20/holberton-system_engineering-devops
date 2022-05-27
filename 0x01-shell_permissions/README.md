@@ -1,1 +1,2 @@
-This project is mandatory in school projects
+#!/bin/bash
+this is information on the scripts in this directory
