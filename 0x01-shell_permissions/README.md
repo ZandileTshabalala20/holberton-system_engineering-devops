@@ -1,2 +1,1 @@
-#!/bin/bash
-this is information on the scripts in this directory
+#0x0z-shell_permissions
